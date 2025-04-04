@@ -1,3 +1,3 @@
 # Yashrepo
-this is my first gir repositories
+this is my first gir repositories.
 Author-yash pareek
